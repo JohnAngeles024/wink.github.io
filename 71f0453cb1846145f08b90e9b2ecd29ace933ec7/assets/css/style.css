@@ -81,6 +81,9 @@
             justify-content: center;
     padding-top: 20px;
   }
+  .main__item:nth-child(4) .content__description {
+    width: 658px;
+  }
   .main__item:nth-child(5) .content-figure {
     height: auto;
     width: 660px;

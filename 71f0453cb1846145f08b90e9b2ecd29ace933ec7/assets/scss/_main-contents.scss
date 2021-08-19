@@ -70,6 +70,14 @@
                 }
             }
 
+            
+            &:nth-child(4) {
+                .content {
+                    &__description {
+                        width: 658px;
+                    }
+                }
+            }
             &:nth-child(5) {
                 .content {
                     &-figure {
